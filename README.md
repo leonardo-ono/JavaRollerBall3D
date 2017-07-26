@@ -11,7 +11,7 @@ https://github.com/leonardo-ono/JavaRollerBall3D/raw/master/RollerBall3D/store/R
 
 [Z or A or LEFT] key: left paddle
 
-[M or L or RIGHT] key to jump.
+[M or L or RIGHT] key: right paddle
 
 [Space or DOWN]: shoot the ball
 
