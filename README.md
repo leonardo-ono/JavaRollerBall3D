@@ -13,7 +13,7 @@ https://github.com/leonardo-ono/JavaRollerBall3D/raw/master/RollerBall3D/store/R
 
 [M or L or RIGHT] key: right paddle
 
-[Space or DOWN]: shoot the ball
+[Space or DOWN] key: shoot the ball
 
 
 ## Screenshots
