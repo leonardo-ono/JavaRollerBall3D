@@ -1,6 +1,6 @@
 # Java Roller Ball 3D
 
-Java 3D version of Roller Ball (1984) MSX game.
+Java 3D version of Roller Ball (1984) MSX pinball game.
 
 ## Executable jar (java 6)
 
