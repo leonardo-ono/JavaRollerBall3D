@@ -16,6 +16,13 @@ https://github.com/leonardo-ono/JavaRollerBall3D/raw/master/RollerBall3D/store/R
 [Space or DOWN] key: shoot the ball
 
 
+## Video
+
+[![video](http://img.youtube.com/vi/LpHc9VU2VJU/0.jpg)](http://www.youtube.com/watch?v=LpHc9VU2VJU)
+
+click the image above to see the gameplay video
+
+
 ## Screenshots
 
 ![O.L. Presents](https://raw.githubusercontent.com/leonardo-ono/JavaRollerBall3D/master/screenshot0.png)
@@ -36,8 +43,3 @@ https://github.com/leonardo-ono/JavaRollerBall3D/raw/master/RollerBall3D/store/R
 
 
 
-## Video
-
---- comming soon ---
-
-click the image above to see the gameplay video
