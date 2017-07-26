@@ -4,7 +4,7 @@ Java 3D version of Roller Ball (1984) MSX game.
 
 ## Executable jar (java 6)
 
-https://github.com/leonardo-ono/JavaRollerBall3D/raw/master/RollerBall3D/store/RollerBall3D.jar
+https://github.com/leonardo-ono/JavaRollerBall3D/raw/master/RollerBall3D/store/RollerBall3D.jar (750Kb)
 
 
 ## Control
