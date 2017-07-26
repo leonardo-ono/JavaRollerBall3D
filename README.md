@@ -25,8 +25,6 @@ click the image above to see the gameplay video
 
 ## Screenshots
 
-![O.L. Presents](https://raw.githubusercontent.com/leonardo-ono/JavaRollerBall3D/master/screenshot0.png)
-
 ![Title screen](https://raw.githubusercontent.com/leonardo-ono/JavaRollerBall3D/master/screenshot1.png)
 
 ![Section 1](https://raw.githubusercontent.com/leonardo-ono/JavaRollerBall3D/master/screenshot2.png)
